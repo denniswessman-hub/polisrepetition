@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "date": "2026-10-15",
+  "questions": 440,
+  "cases": 52,
+  "files": {
+    "index.html": "118b658248b615bcd1330158a90e6cf27d38ea3c300723fbc16530ec241e872f",
+    "Polisrepetition.html": "118b658248b615bcd1330158a90e6cf27d38ea3c300723fbc16530ec241e872f",
+    "fragor_och_svar.json": "cbae2ef69bcf352060a6da0c117dd4c304a78a4a48a95155d704e9f45760111f",
+    "fragor_och_svar.csv": "045656f4e22880873510e6894281739a8ae286fbddeb00e68f7284f42bf22244",
+    "anki_import.tsv": "af128e42bf428e5c9808054966854637074e77c56ada205c1b7a2b44233ac3cb",
+    "LAS_MIG.txt": "b54bf01aca69a883f1ae6af65b8922b21288f7e85c6d5fb7d43a52ad31df2aee",
+    "pdf/Polisrepetition_infor_aspiranten.pdf": "7fc9036be2139e27c192fdc9227274554bda671a687560e92f00d849d01f3bf4",
+    "Polisrepetition_hela_paketet.zip": "ebcd9512643d9028dd2538a289f70b6179069813fda9b1ad95835d6d697ca1ae"
+  }
+}

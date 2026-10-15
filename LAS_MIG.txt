@@ -1,0 +1,41 @@
+POLISREPETITION INFÖR ASPIRANTEN
+440 frågor • 20 områden • 52 fallfrågor
+Rättsläge kontrollerat 15 oktober 2026. Version 1.1.0.
+
+BÖRJA HÄR
+Öppna Polisrepetition.html i din webbläsare. Du kan dubbelklicka på filen.
+Frågor, facit och träningsfunktioner finns i filen och behöver inte internet.
+Offentliga källänkar kräver internet. Interna kurslänkar ingår inte.
+
+Välj område, lag eller frågetyp. Svara innan du visar facit.
+Markera Behöver öva, Nästan eller Sitter. Framstegen sparas i samma
+webbläsare när den tillåter lokal lagring. Exportera en framstegsfil under
+Källor & upplägg innan du byter enhet eller rensar webbläsaren.
+
+På liten skärm öppnas filtren genom Vad vill du träna?
+
+FRÅGEBOK
+pdf/Polisrepetition_infor_aspiranten.pdf innehåller alla frågor med facit,
+klickbar innehållsförteckning och källor. Den fungerar även för utskrift.
+
+ANDRA FORMAT
+fragor_och_svar.csv: redigerbar lista, semikolonseparerad UTF-8.
+anki_import.tsv: tabseparerade kort med fråga, svar och taggar.
+Svarsfälten innehåller HTML för källänkar.
+fragor_och_svar.json: fullständig strukturerad frågebank och källförteckning.
+
+Behåll filerna och pdf-mappen tillsammans om du flyttar materialet.
+Efter uppackning av hela paketet fungerar även länkarna till PDF och exportfiler.
+
+OM GENOMGÅNGEN
+4 öppna Canvas-kurser, 28 moduler, 198 kurssidor och 54 utvalda läsbara
+bilagor har granskats. Filmer, ljud, hela kursböcker och Intrapolis har inte
+granskats fullständigt. Alla länkade bilagor har inte lästs. Detaljer finns
+under Källor & upplägg och i frågeboken.
+
+Detta är personligt repetitionsmaterial och inte en officiell polisanvisning.
+Kontrollera alltid tillämplig laglydelse, gärningsdag, övergångsregler och
+aktuella tjänsteinstruktioner i ett verkligt ärende.
+
+Publik version: https://denniswessman-hub.github.io/polisrepetition/
+Originalfiler från kurserna och personliga framsteg ingår inte.
